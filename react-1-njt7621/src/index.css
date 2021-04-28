@@ -1,0 +1,50 @@
+.Title{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 34px;
+  text-align: center;
+  background-color: rgb(212, 212, 212);
+}
+
+.Subtitle{
+  font-size:26px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#fonts{
+  display: inline;
+  margin-right: 28%;
+}
+
+#font{
+  display: block; 
+  margin-left: 48%;
+}
+
+#colors{
+  margin-left: 65%;
+  margin-top: -4%;
+  width: 63.5px;
+}
+
+.popup {
+  height: 10vmin;
+}
+
+#button{
+  margin-top: 15px;
+  margin-left: 47.4%;
+}
+
+#hiddenBox{
+    display: none;
+}
+
+textarea{
+  resize: none;
+  width: 380px;
+  height: 200px;
+  display: block;
+  margin-top: 15px;
+  margin-left: 36%;
+}
